@@ -1,54 +1,56 @@
 <div align="center">
 
-<img src="./assets/pacman.gif" width="120">
-
 # Vitor Passo
 
 ### UI/UX Designer · Front-end Developer · Graphic Designer
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Designing+interfaces.;Building+digital+experiences.;Turning+ideas+into+projects." />
-
-<br><br>
-
 <a href="https://vitorpasso.com.br">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge">
 </a>
 
 <a href="https://github.com/Vitor-passo">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.behance.net/vitorpasso">
-  <img src="https://img.shields.io/badge/BEHANCE-111111?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance">
 </a>
 
 <a href="https://www.linkedin.com/in/vitor-passo/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
 </a>
+
+<br><br>
+
+<img src="./assets/pacman.gif" width="500">
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://vitorpasso.com.br/favicon.ico" width="55">
-
-</div>
-
-## Sobre mim
+## 👋 Hello, I'm Vitor
 
 Sou **UI/UX Designer, Front-end Developer e Graphic Designer**.
 
-Gosto de unir design e tecnologia para criar interfaces, experiências digitais e projetos visualmente bem construídos.
+Minha experiência começou no design gráfico e atualmente estou expandindo minha atuação para o desenvolvimento de software, unindo **design, interfaces e tecnologia**.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software e Front-end.
+Gosto de transformar ideias em experiências digitais funcionais e visualmente bem construídas.
 
 ---
 
-## 🛠️ Tecnologias
+## 🎨 What I do
+
+- 🖥️ UI/UX Design
+- 💻 Front-end Development
+- 🎨 Graphic Design
+- 🎬 Motion Design
+- 🌐 Web Design
+
+---
+
+## 🛠️ Skills
 
 <div align="center">
 
@@ -58,60 +60,55 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software 
 
 ---
 
-## 🚀 Projetos
+## 🌱 Currently working on
+
+- Desenvolvendo projetos Front-end
+- Criando interfaces e experiências digitais
+- Aprimorando JavaScript
+- Desenvolvendo projetos pessoais
+- Unindo UI/UX com desenvolvimento
+
+---
+
+## 🚀 Featured Project
+
+### Grande Prêmio Internacional de Dança
+
+Website institucional desenvolvido para o **Grande Prêmio Internacional de Dança**.
+
+O projeto envolve:
+
+- UI/UX
+- Desenvolvimento Front-end
+- Responsividade
+- Animações
+- HTML
+- CSS
+- JavaScript
 
 <div align="center">
 
 <a href="https://grandepremiointernacionaldedanca.com/">
-  <img src="https://img.shields.io/badge/GRANDE_PRÊMIO_INTERNACIONAL_DE_DANÇA-111111?style=for-the-badge">
-</a>
 
-<br><br>
+<img src="https://img.shields.io/badge/VER_PROJETO-111111?style=for-the-badge">
 
-<a href="https://vitorpasso.com.br">
-  <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-111111?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-## 🎨 O que faço
+## 💻 Tech Stack
 
-<div align="center">
-
-| UI/UX | Front-end | Design |
-|:---:|:---:|:---:|
-| Interfaces | HTML | Identidade Visual |
-| Prototipação | CSS | Social Media |
-| Figma | JavaScript | Motion Design |
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vitor-passo&show_icons=true&hide_border=true&theme=transparent">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-passo&layout=compact&hide_border=true&theme=transparent">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/pacman.gif" width="80">
-
-### Let's build something great.
-
-<br>
-
-<a href="https://vitorpasso.com.br">
-  <img src="https://img.shields.io/badge/vitorpasso.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</div>
+```text
+HTML
+CSS
+JavaScript
+Git
+GitHub
+Figma
+Photoshop
+Illustrator
+After Effects
+Premiere
+WordPress

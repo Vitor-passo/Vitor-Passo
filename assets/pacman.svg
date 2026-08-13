@@ -58,6 +58,10 @@
   />
 
 
+  <!-- ======================================
+       VITOR PASSO
+       ====================================== -->
+
   <g
     font-family="Inter, Arial, sans-serif"
     font-size="17"
@@ -67,85 +71,84 @@
     text-anchor="middle"
   >
 
-   <!-- V -->
+    <!-- V -->
 
-<text x="270" y="64">
-  V
+    <text x="270" y="64">
+      V
 
-  <animate
-    attributeName="opacity"
-    dur="17s"
-    repeatCount="indefinite"
-    values="1;1;0;0;1"
-    keyTimes="0;0.336;0.356;0.86;1"
-  />
+      <animate
+        attributeName="opacity"
+        dur="18s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.280444;0.300444;0.86;1"
+      />
 
-</text>
-
-
-<!-- I -->
-
-<text x="306" y="64">
-  I
-
-  <animate
-    attributeName="opacity"
-    dur="17s"
-    repeatCount="indefinite"
-    values="1;1;0;0;1"
-    keyTimes="0;0.369;0.389;0.86;1"
-  />
-
-</text>
+    </text>
 
 
-<!-- T -->
+    <!-- I -->
 
-<text x="342" y="64">
-  T
+    <text x="306" y="64">
+      I
 
-  <animate
-    attributeName="opacity"
-    dur="17s"
-    repeatCount="indefinite"
-    values="1;1;0;0;1"
-    keyTimes="0;0.402;0.422;0.86;1"
-  />
+      <animate
+        attributeName="opacity"
+        dur="18s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.313444;0.333444;0.86;1"
+      />
 
-</text>
-
-
-<!-- O -->
-
-<text x="378" y="64">
-  O
-
-  <animate
-    attributeName="opacity"
-    dur="17s"
-    repeatCount="indefinite"
-    values="1;1;0;0;1"
-    keyTimes="0;0.435;0.455;0.86;1"
-  />
-
-</text>
+    </text>
 
 
-<!-- R -->
+    <!-- T -->
 
-<text x="414" y="64">
-  R
+    <text x="342" y="64">
+      T
 
-  <animate
-    attributeName="opacity"
-    dur="17s"
-    repeatCount="indefinite"
-    values="1;1;0;0;1"
-    keyTimes="0;0.467;0.487;0.86;1"
-  />
+      <animate
+        attributeName="opacity"
+        dur="18s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.346444;0.366444;0.86;1"
+      />
 
-</text>
-  
+    </text>
+
+
+    <!-- O -->
+
+    <text x="378" y="64">
+      O
+
+      <animate
+        attributeName="opacity"
+        dur="18s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.379444;0.399444;0.86;1"
+      />
+
+    </text>
+
+
+    <!-- R -->
+
+    <text x="414" y="64">
+      R
+
+      <animate
+        attributeName="opacity"
+        dur="18s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.411444;0.431444;0.86;1"
+      />
+
+    </text>
 
 
     <!-- P -->
@@ -155,10 +158,10 @@
 
       <animate
         attributeName="opacity"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         values="1;1;0;0;1"
-        keyTimes="0;0.533;0.553;0.86;1"
+        keyTimes="0;0.477444;0.497444;0.86;1"
       />
 
     </text>
@@ -171,10 +174,10 @@
 
       <animate
         attributeName="opacity"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         values="1;1;0;0;1"
-        keyTimes="0;0.565;0.585;0.86;1"
+        keyTimes="0;0.509444;0.529444;0.86;1"
       />
 
     </text>
@@ -187,10 +190,10 @@
 
       <animate
         attributeName="opacity"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         values="1;1;0;0;1"
-        keyTimes="0;0.598;0.618;0.86;1"
+        keyTimes="0;0.542444;0.562444;0.86;1"
       />
 
     </text>
@@ -203,10 +206,10 @@
 
       <animate
         attributeName="opacity"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         values="1;1;0;0;1"
-        keyTimes="0;0.631;0.651;0.86;1"
+        keyTimes="0;0.575444;0.595444;0.86;1"
       />
 
     </text>
@@ -219,10 +222,10 @@
 
       <animate
         attributeName="opacity"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         values="1;1;0;0;1"
-        keyTimes="0;0.664;0.684;0.86;1"
+        keyTimes="0;0.607444;0.627444;0.86;1"
       />
 
     </text>
@@ -230,11 +233,14 @@
   </g>
 
 
+  <!-- ======================================
+       PAC-MAN
+       ====================================== -->
+
   <g>
 
-
     <animateMotion
-      dur="16s"
+      dur="18s"
       repeatCount="indefinite"
       rotate="0"
       path="M -100,0 C 150,0 900,0 1000,0"
@@ -250,6 +256,11 @@
 
   </g>
 
+
+  <!-- ======================================
+       PROFISSÃO
+       ====================================== -->
+
   <text
     x="450"
     y="104"
@@ -260,9 +271,7 @@
     letter-spacing="3"
     fill="#8B6F47"
   >
-
     DESIGNER · UI/UX · FRONT-END
-
   </text>
 
 </svg>

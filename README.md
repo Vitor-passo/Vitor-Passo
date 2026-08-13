@@ -5,7 +5,7 @@
 **Designer Gráfico · Front-end Developer · UI/UX Designer**
 
 <a href="https://vitorpasso.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-8B6F47?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-8B6F47?style=for-the-badge">
 </a>
 
 <a href="https://www.behance.net/vitorpasso" target="_blank">

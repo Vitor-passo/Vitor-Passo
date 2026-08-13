@@ -2,7 +2,24 @@
 
 # Vitor Passo
 
+**Designer Gráfico · Front-end Developer · UI/UX Designer**
+
+<a href="https://vitorpasso.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-8B6F47?style=for-the-badge">
 </a>
+
+<a href="https://www.behance.net/vitorpasso" target="_blank">
+  <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+</a>
+
+<a href="SEU_LINK_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/vitorpassoo/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </div>
 
 ---

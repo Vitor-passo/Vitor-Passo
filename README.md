@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 
-<a href="SEU_LINK_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-passo/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 

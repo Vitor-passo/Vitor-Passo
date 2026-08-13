@@ -1,0 +1,298 @@
+<svg width="900" height="150" viewBox="0 0 900 150"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- MÁSCARA DO PAC-MAN -->
+    <!-- O preto aqui NÃO aparece.
+         Ele apenas corta a boca do círculo. -->
+
+    <mask id="pacmanMask"
+          maskUnits="userSpaceOnUse"
+          x="-30"
+          y="0"
+          width="60"
+          height="120">
+
+      <!-- corpo -->
+      <circle
+        cx="0"
+        cy="58"
+        r="20"
+        fill="white"
+      />
+
+      <!-- boca vazada -->
+      <path
+        d="M0 58 L25 43 A20 20 0 0 1 25 73 Z"
+        fill="black">
+
+        <animate
+          attributeName="d"
+          dur="0.32s"
+          repeatCount="indefinite"
+          values="
+            M0 58 L25 43 A20 20 0 0 1 25 73 Z;
+            M0 58 L23 55 A20 20 0 0 1 23 61 Z;
+            M0 58 L25 43 A20 20 0 0 1 25 73 Z
+          "
+        />
+
+      </path>
+
+    </mask>
+
+  </defs>
+
+
+  <!-- FUNDO -->
+
+  <rect
+    width="900"
+    height="150"
+    rx="12"
+    fill="#0d1117"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- VITOR PASSO -->
+  <!-- ================================================= -->
+
+  <g
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="400"
+    letter-spacing="18"
+    fill="#f0f6fc"
+    text-anchor="middle">
+
+
+    <!-- V -->
+    <text x="270" y="64">
+      V
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.225;0.245;0.82;1"
+      />
+    </text>
+
+
+    <!-- I -->
+    <text x="306" y="64">
+      I
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.265;0.285;0.82;1"
+      />
+    </text>
+
+
+    <!-- T -->
+    <text x="342" y="64">
+      T
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.305;0.325;0.82;1"
+      />
+    </text>
+
+
+    <!-- O -->
+    <text x="378" y="64">
+      O
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.345;0.365;0.82;1"
+      />
+    </text>
+
+
+    <!-- R -->
+    <text x="414" y="64">
+      R
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.385;0.405;0.82;1"
+      />
+    </text>
+
+
+    <!-- P -->
+    <text x="486" y="64">
+      P
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.465;0.485;0.82;1"
+      />
+    </text>
+
+
+    <!-- A -->
+    <text x="522" y="64">
+      A
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.505;0.525;0.82;1"
+      />
+    </text>
+
+
+    <!-- S -->
+    <text x="558" y="64">
+      S
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.545;0.565;0.82;1"
+      />
+    </text>
+
+
+    <!-- S -->
+    <text x="594" y="64">
+      S
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.585;0.605;0.82;1"
+      />
+    </text>
+
+
+    <!-- O -->
+    <text x="630" y="64">
+      O
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        values="1;1;0;0;1"
+        keyTimes="0;0.625;0.645;0.82;1"
+      />
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- PAC-MAN -->
+  <!-- ================================================= -->
+
+  <g>
+
+    <!-- Movimento -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+
+      values="
+        -80 0;
+        0 0;
+        40 0;
+        90 0;
+        126 0;
+        162 0;
+        198 0;
+        234 0;
+        270 0;
+        306 0;
+        342 0;
+        378 0;
+        414 0;
+        450 0;
+        486 0;
+        522 0;
+        558 0;
+        594 0;
+        630 0;
+        700 0;
+        800 0"
+
+      keyTimes="
+        0;
+        0.08;
+        0.12;
+        0.18;
+        0.225;
+        0.265;
+        0.305;
+        0.345;
+        0.385;
+        0.425;
+        0.465;
+        0.505;
+        0.545;
+        0.585;
+        0.625;
+        0.665;
+        0.705;
+        0.745;
+        0.785;
+        0.88;
+        1"
+
+      dur="12s"
+      repeatCount="indefinite"
+    />
+
+
+    <!-- CORPO + BOCA -->
+    <g mask="url(#pacmanMask)">
+
+      <circle
+        cx="0"
+        cy="58"
+        r="20"
+        fill="#F7DF1E"
+      />
+
+    </g>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- PROFISSÃO -->
+  <!-- ================================================= -->
+
+  <text
+    x="450"
+    y="104"
+    text-anchor="middle"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="10"
+    font-weight="400"
+    letter-spacing="3"
+    fill="#8B6F47">
+
+    DESIGNER · UI/UX · FRONT-END
+
+  </text>
+
+</svg>

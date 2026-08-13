@@ -27,7 +27,7 @@
 <h3>🎨 Design</h3>
 
 <div>
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figmlogoColor=white">
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
 <img src="https://img.shields.io/badge/AFTER_EFFECTS-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">

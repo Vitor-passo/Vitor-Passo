@@ -60,91 +60,92 @@
 
   <g
     font-family="Inter, Arial, sans-serif"
-    font-size="16"
+    font-size="17"
     font-weight="400"
     letter-spacing="18"
     fill="#f0f6fc"
     text-anchor="middle"
   >
 
-    <!-- V -->
+   <!-- V -->
 
-    <text x="270" y="64">
-      V
+<text x="270" y="64">
+  V
 
-      <animate
-        attributeName="opacity"
-        dur="16s"
-        repeatCount="indefinite"
-        values="1;1;0;0;1"
-        keyTimes="0;0.336;0.356;0.86;1"
-      />
+  <animate
+    attributeName="opacity"
+    dur="17s"
+    repeatCount="indefinite"
+    values="1;1;0;0;1"
+    keyTimes="0;0.336;0.356;0.86;1"
+  />
 
-    </text>
-
-
-    <!-- I -->
-
-    <text x="306" y="64">
-      I
-
-      <animate
-        attributeName="opacity"
-        dur="16s"
-        repeatCount="indefinite"
-        values="1;1;0;0;1"
-        keyTimes="0;0.369;0.389;0.86;1"
-      />
-
-    </text>
+</text>
 
 
-    <!-- T -->
+<!-- I -->
 
-    <text x="342" y="64">
-      T
+<text x="306" y="64">
+  I
 
-      <animate
-        attributeName="opacity"
-        dur="16s"
-        repeatCount="indefinite"
-        values="1;1;0;0;1"
-        keyTimes="0;0.402;0.422;0.86;1"
-      />
+  <animate
+    attributeName="opacity"
+    dur="17s"
+    repeatCount="indefinite"
+    values="1;1;0;0;1"
+    keyTimes="0;0.369;0.389;0.86;1"
+  />
 
-    </text>
-
-
-    <!-- O -->
-
-    <text x="378" y="64">
-      O
-
-      <animate
-        attributeName="opacity"
-        dur="16,8s"
-        repeatCount="indefinite"
-        values="1;1;0;0;1"
-        keyTimes="0;0.435;0.455;0.86;1"
-      />
-
-    </text>
+</text>
 
 
-    <!-- R -->
+<!-- T -->
 
-    <text x="414" y="64">
-      R
+<text x="342" y="64">
+  T
 
-      <animate
-        attributeName="opacity"
-        dur="17s"
-        repeatCount="indefinite"
-        values="1;1;0;0;1"
-        keyTimes="0;0.467;0.487;0.86;1"
-      />
+  <animate
+    attributeName="opacity"
+    dur="17s"
+    repeatCount="indefinite"
+    values="1;1;0;0;1"
+    keyTimes="0;0.402;0.422;0.86;1"
+  />
 
-    </text>
+</text>
+
+
+<!-- O -->
+
+<text x="378" y="64">
+  O
+
+  <animate
+    attributeName="opacity"
+    dur="17s"
+    repeatCount="indefinite"
+    values="1;1;0;0;1"
+    keyTimes="0;0.435;0.455;0.86;1"
+  />
+
+</text>
+
+
+<!-- R -->
+
+<text x="414" y="64">
+  R
+
+  <animate
+    attributeName="opacity"
+    dur="17s"
+    repeatCount="indefinite"
+    values="1;1;0;0;1"
+    keyTimes="0;0.467;0.487;0.86;1"
+  />
+
+</text>
+  
 
 
     <!-- P -->

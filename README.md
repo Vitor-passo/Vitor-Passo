@@ -2,7 +2,7 @@
 
 # Vitor Passo
 
-**UI/UX Designer · Front-end Developer · Designer Gráfico**
+**Designer Gráfico · Front-end Developer · UI/UX Designer**
 
 <a href="https://vitorpasso.com.br">
 <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-8B6F47?style=for-the-badge">

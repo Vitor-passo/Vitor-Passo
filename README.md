@@ -52,3 +52,9 @@
 **Design · Code · Creativity**
 
 </div>
+
+<div align="center">
+
+<img src="./assets/pacman.svg" width="900" alt="Vitor Passo">
+
+</div>

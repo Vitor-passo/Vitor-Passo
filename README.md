@@ -7,39 +7,50 @@
 <br>
 
 <a href="https://vitorpasso.com.br">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-8B6F47?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFÓLIO-8B6F47?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+&nbsp;
 <a href="https://github.com/Vitor-passo">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;
 <a href="https://www.behance.net/vitorpasso">
-  <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;
+<a href="https://www.linkedin.com/in/vitor-passo/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1000&color=8B6F47&center=true&vCenter=true&width=650&lines=Designando+interfaces.;Criando+experiências+digitais.;Desenvolvendo+projetos+Front-end.;Unindo+Design+%2B+Tecnologia." />
 
 </div>
 
 ---
 
-# 👋 Olá, eu sou o Vitor
+## 👋 Sobre mim
 
 Sou **UI/UX Designer, Desenvolvedor Front-end e Designer Gráfico**.
 
-Minha experiência começou no design e atualmente estou expandindo meus conhecimentos em desenvolvimento de software, unindo **design, tecnologia e desenvolvimento web**.
+Minha experiência começou no design gráfico e atualmente estou expandindo meus conhecimentos em desenvolvimento de software, unindo **design, tecnologia e desenvolvimento web**.
 
 Gosto de transformar ideias em interfaces bonitas, funcionais e experiências digitais bem construídas.
 
 ---
 
-# 🎨 O que eu faço
+## 🎨 O que faço
 
-- 🖥️ **UI/UX Design**
-- 💻 **Desenvolvimento Front-end**
-- 🎨 **Design Gráfico**
-- 🎬 **Motion Design**
-- 🌐 **Web Design**
+<div align="center">
+
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-8B6F47?style=for-the-badge">
+<img src="https://img.shields.io/badge/FRONT--END-1572B6?style=for-the-badge">
+<img src="https://img.shields.io/badge/DESIGN_GRÁFICO-E34F26?style=for-the-badge">
+<img src="https://img.shields.io/badge/MOTION_DESIGN-9999FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/WEB_DESIGN-21759B?style=for-the-badge">
+
+</div>
 
 ---
 
@@ -59,7 +70,7 @@ Gosto de transformar ideias em interfaces bonitas, funcionais e experiências di
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-### 🧩 Desenvolvimento Web
+### 🌍 Desenvolvimento Web
 
 <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/ELEMENTOR-92003B?style=flat-square&logo=elementor&logoColor=white">
@@ -78,13 +89,13 @@ Gosto de transformar ideias em interfaces bonitas, funcionais e experiências di
 
 Website institucional desenvolvido para o **Grande Prêmio Internacional de Dança**.
 
-**Tecnologias utilizadas:**
+**Tecnologias:**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-<br><br>
+<br>
 
 <a href="https://grandepremiointernacionaldedanca.com/">
 <img src="https://img.shields.io/badge/VER_PROJETO-8B6F47?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -115,15 +126,9 @@ Website institucional desenvolvido para o **Grande Prêmio Internacional de Dan�
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vitor-passo&show_icons=true&hide_border=true&theme=transparent"
-  height="170"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vitor-passo&show_icons=true&hide_border=true&theme=transparent">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-passo&layout=compact&hide_border=true&theme=transparent"
-  height="170"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-passo&layout=compact&hide_border=true&theme=transparent">
 
 </div>
 
@@ -131,18 +136,18 @@ Website institucional desenvolvido para o **Grande Prêmio Internacional de Dan�
 
 <div align="center">
 
-<img src="./assets/pacman.gif" width="500">
+## 🐴 Vitor Passo
+
+<a href="https://vitorpasso.com.br">
+<img src="https://img.shields.io/badge/VISITAR_PORTFÓLIO-8B6F47?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 <br><br>
 
-### 🐴 Vitor Passo
+<img src="https://vitorpasso.com.br/favicon.ico" width="50">
+
+<br><br>
 
 **UI/UX · Front-end · Design**
-
-<br>
-
-<a href="https://vitorpasso.com.br">
-<img src="https://img.shields.io/badge/vitorpasso.com.br-8B6F47?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
 
 </div>

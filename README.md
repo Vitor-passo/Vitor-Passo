@@ -5,18 +5,22 @@
 **Designer Gráfico · Front-end Developer · UI/UX Designer**
 
 <a href="https://vitorpasso.com.br">
-<img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-8B6F47?style=for-the-badge">
+<img src="https://img.shields.io/badge/_MEU_PORTFÓLIO-8B6F47?style=for-the-badge">
 </a>
 
 <a href="https://www.behance.net/vitorpasso">
-<img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badgelogo=behanclogoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
 <a href="SEU_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge=linkedioColor=white">
 </a>
 
+<a href="https://https://www.instagram.com/vitorpassoo/">
+<a href="instagram" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge=linkedioColor=white">
+</a>
 
 </div>
 

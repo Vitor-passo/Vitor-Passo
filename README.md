@@ -17,13 +17,3 @@ Estudando Java e Python.
 ![GitHub](https://img.shields.io/badge/GitHub-262B40?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
 
-
-<!-- Mantenha o código atual do Pac-Man abaixo -->
-
-</div>
-
-<div align="center">
-
-<img src="./assets/pacman.svg" width="900" alt="Vitor Passo">
-
-</div>

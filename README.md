@@ -2,54 +2,38 @@
 
 # Vitor Passo
 
-**Designer Gráfico · Front-end Developer · UI/UX Designer**
+**Estudante de Engenharia de Software · Foco em Back-end**
 
-<a href="https://vitorpasso.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-8B6F47?style=for-the-badge">
+Aprendendo Java e Python, com Git e GitHub no meu processo de estudo.
+Experiência profissional em design gráfico e prototipação de interfaces.
+
+<a href="https://vitorpasso.com">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-181717?style=flat-square" alt="Portfólio">
 </a>
-
-<a href="https://www.behance.net/vitorpasso" target="_blank">
-  <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/vitor-passo/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/vitorpassoo/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/vitor-passo/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square" alt="LinkedIn">
 </a>
 
 </div>
 
 ---
 
-<h2>🛠️ Tecnologias</h2>
-
-<h3>🎨 Design</h3>
+### Em aprendizado
 
 <div>
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figmlogoColor=white">
-<img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
-<img src="https://img.shields.io/badge/AFTER_EFFECTS-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </div>
 
-<h3>💻 Front-end</h3>
+### Ferramentas
 
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-<h3>🌐 Web</h3>
-
-<div>
-<img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/FRAMER-000000?style=flat-square&logo=framer&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
-</div>
+<!-- Mantenha o código atual do Pac-Man abaixo -->
 
 **Design · Code · Creativity**
 

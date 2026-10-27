@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia de Software · Foco em Back-end**
 
-Estudando Java e Python. Experiência em design gráfico e prototipação de interfaces.
+Estudando Java e Python.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-262B40?style=flat-square)](https://vitorpasso.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-262B40?style=flat-square)](https://www.linkedin.com/in/vitor-passo/)
